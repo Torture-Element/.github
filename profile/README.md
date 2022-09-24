@@ -1,7 +1,7 @@
 English | [繁體中文](README_TCH.md)
 # Torture Element
 Playing games and developing games are torture.
-## This place is for storing game made by JingShing
+## This place is for storing game made by [JingShing](https://github.com/JingShing)
 But only the gmae that make me feel right.
 ## About Torture Element
 Playing game is a torture. But making torture game is an honor.
