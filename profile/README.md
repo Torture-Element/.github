@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # Torture Element
 Playing games and developing games are torture.
 ## This place is for storing game made by JingShing
