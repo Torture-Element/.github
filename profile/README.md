@@ -7,7 +7,7 @@ Playing game is a torture. But making torture game is an honor.
 ## Games
 > Click caption to get code. Click picture to get EXE.
 
-* [Myth of Charlie](Myth-of-Charlie)
+* [Myth of Charlie](https://github.com/Torture-Element/Myth-of-Charlie)
 
   [![myth_of_charlie](https://img.itch.zone/aW1hZ2UvMTU2NjEzOS85NjM3OTU3LnBuZw==/347x500/m%2FUENI.png)](https://jingshing.itch.io/myth-of-charlie)
   
