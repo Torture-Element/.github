@@ -1,4 +1,5 @@
 # Torture Element
+Playing games and developing games are torture.
 ## This place is for storing game made by JingShing
 But only the gmae that make me feel right.
 ## About Torture Element
